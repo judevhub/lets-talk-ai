@@ -6,4 +6,4 @@ from urllib.request import urlretrieve
 urlretrieve("https://hub.jovian.ml/wp-content/uploads/2020/09/italy-covid-daywise.csv", "italy-covid-daywise.csv")
 ```
 
-Link for the questionnaire: (https://forms.gle/xr5SGJRGnMtZYuGS9)[https://forms.gle/xr5SGJRGnMtZYuGS9]
+Link for the questionnaire: [https://forms.gle/BtBxfB9ZbMcon6R69](https://forms.gle/BtBxfB9ZbMcon6R69)
